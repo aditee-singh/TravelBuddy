@@ -26,11 +26,11 @@ MongoDB is used as a database.
 
 # Set-up
 
-* Clone this repository using ```git clone https://github.com/aditee-singh/TravelBuddy.git
-* Start frontend with: ```yarn start
-* View frontend at: ```http:localhost:3000
-* Start backend with: ```yarn start
-* View backend at: ```http:localhost:8800
+* Clone this repository using ``` git clone https://github.com/aditee-singh/TravelBuddy.git
+* Start frontend with: ``` yarn start
+* View frontend at: ``` http:localhost:3000
+* Start backend with: ``` yarn start
+* View backend at: ``` http:localhost:8800
 * Replace MongoDB url with your own username and password, navigate to clusters on your mongoDB profile.
 
 You are good to go. Happy Hacking!
